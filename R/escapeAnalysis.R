@@ -1,3 +1,4 @@
+rdir = "D:/FlyJump/R"
 escapeAnalysis <- function(dir, file, bgstart=1, bgend=0, bgskip=100,
                            start=1, end=0, interval=0, large=300, maxdist=200, size=100, unit=1, fps=160,
                            maskmovie=T, speedmovie=T, objectmovie=T, moviejp=T, maskmoviejp=T, DLO=T, DLOonly=F, ram=0,

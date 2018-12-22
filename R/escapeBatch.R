@@ -1,4 +1,4 @@
-source("escapeAnalysis2015-01-26.R")
+source("escapeAnalysis.R")
 source("readAVI8.R")
 library(methods)
 rdir <- "/oasis/tscc/scratch/tkatsuki/data/Images"
